@@ -1,0 +1,5 @@
+#f=open("write.txt","w")
+f=open("data.txt","a")
+f.write("\nAlso complete my mini project")
+#f.write("I want to revise SQL tomorrow.")
+f.close()
